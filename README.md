@@ -1,4 +1,6 @@
-#Movie Finder
+# Movie Finder
+
+
 A React-based movie finder application that allows users to search for movies, filter them by genre, and add them to a watchlist. The app fetches data from an API and provides detailed information about each movie.
 
 Features
