@@ -1,8 +1,15 @@
-# React + Vite
+#Movie Finder
+A React-based movie finder application that allows users to search for movies, filter them by genre, and add them to a watchlist. The app fetches data from an API and provides detailed information about each movie.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Search for movies by name.
+Filter movies by genre.
+Add/remove movies to/from a watchlist.
+View detailed information about a selected movie in a modal.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used
+React: For building the user interface.
+Vite: For fast and optimized development.
+CSS: For styling the application.
+Axios: For making API requests.
+localStorage: For persisting watchlist data across sessions.
